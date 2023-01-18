@@ -1,0 +1,11 @@
+@media (min-width:100px){
+    #navbar{
+        display: grid ;
+        grid-template-rows: 1fr 1fr;
+        gap: 0;
+        background-color: black;
+    }
+    nav header{
+        text-align: center;
+    }
+}
